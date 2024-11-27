@@ -1,2 +1,4 @@
 # t1
-![T1 2](https://github.com/user-attachments/assets/9ae7b0ea-109d-4c61-8b54-5a8e6bd0f88c)
+
+
+![logo_t1](https://github.com/user-attachments/assets/1a403e03-2e63-4e79-81aa-4fe7991f56e6)
